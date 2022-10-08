@@ -4,7 +4,7 @@ import { useState } from 'react';
 
 const Search= () => {
   const router = useRouter();
-  const [searchTerm, setSearchTerm] = useState<string>('');
+  const [searchTerm, setSearchTerm] = useState('');
 
   return (
     <form

@@ -1,6 +1,4 @@
-import { IFooter } from './Footer';
-
-const base: IFooter = {};
+const base = {};
 
 export const mockFooterProps = {
   base,
